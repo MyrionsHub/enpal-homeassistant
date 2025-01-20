@@ -184,7 +184,7 @@ class EnpalSensor(SensorEntity):
         self.unit = unit
         self._attr_icon = icon
         self._attr_name = name
-        self._attr_unique_id = f'enpal_{measurement}_{field}'
+        self._attr_unique_id = f'enpal_markus_{measurement}_{field}'
         self._attr_extra_state_attributes = {}
 
 
