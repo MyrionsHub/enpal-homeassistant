@@ -1,9 +1,9 @@
 {
-  "domain": "enpal",
+  "domain": "enpal_markus",
   "name": "Enpal Markus",
-  "documentation": "https://github.com/skipperro/enpal-homeassistant",
+  "documentation": "https://github.com/myrionshub/enpal-homeassistant",
   "dependencies": [],
-  "codeowners": ["Skipperro", "gickowtf"],
+  "codeowners": ["MyrionsHub"],
   "requirements": [],
   "iot_class": "local_polling",
   "config_flow": true,
