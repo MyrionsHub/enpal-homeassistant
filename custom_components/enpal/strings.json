@@ -16,7 +16,7 @@
           "enpal_token": "Token of the Enpal's InfluxDB"
         },
         "description": "Please provide the access data to Enpal's InfluxDB",
-        "title": "Enpal"
+        "title": "Enpal Markus"
       }
     }
   },
@@ -37,7 +37,7 @@
           "enpal_token": "Token of the Enpal's InfluxDB"
         },
         "description": "Please provide the access data to Enpal's InfluxDB",
-        "title": "Enpal"
+        "title": "Enpal Markus"
       }
     }
   }
