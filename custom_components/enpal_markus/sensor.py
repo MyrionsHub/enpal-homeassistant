@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import asyncio
 import uuid
-from datetime import timedelta, datetime
+from datetime import timedelta, datetime, timezone
 from homeassistant.components.sensor import (SensorEntity)
 from homeassistant.core import HomeAssistant
 from homeassistant import config_entries
